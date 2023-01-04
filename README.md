@@ -20,7 +20,7 @@
 </p>
 
 
-## Bootstrap 5
+## referral 0.1.0 Alpha
 
 Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
 
@@ -44,12 +44,8 @@ Our default branch is for development of our Bootstrap 5 release. Head to the [`
 
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/twbs/bootstrap/archive/v5.3.0-alpha1.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap@v5.3.0-alpha1`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@v5.3.0-alpha1`
-- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:5.3.0-alpha1`
-- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
+- Clone the repo: `git clone https://github.com/decisionnerd/referral.git`
+- Install with [npm](https://www.npmjs.com/): `npm install referral`
 
 Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
 
