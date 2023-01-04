@@ -183,4 +183,4 @@ See [the Releases section of our GitHub project](https://github.com/decisionnerd
 
 ## Copyright and license
 
-Code and documentation copyright 2023 Frontier Analytica. Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Code and documentation copyright 2023 Frontier Analytica. Code released under the [MIT License](https://github.com/DecisionNerd/referral/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
