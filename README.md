@@ -1,6 +1,4 @@
 # referral
-Open Source Referral System for Stripe and Firebase
-
 
 <p align="center">
   <a href="https://getbootstrap.com/">
@@ -8,10 +6,10 @@ Open Source Referral System for Stripe and Firebase
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">referral</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  Open Source Referral System for Stripe and Firebase
   <br>
   <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
