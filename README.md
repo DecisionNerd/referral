@@ -16,7 +16,7 @@
   <br>
   <a href="https://github.com/decisionnerd/referral/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
   ·
-  <a href="https://github.com/decisionnerd/referral/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
+  <a href="https://github.com/decisionnerd/referral/issues/new?assignees=&labels=enhancement&template=feature_request.yml">Request feature</a>
 </p>
 
 
