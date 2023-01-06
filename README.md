@@ -62,9 +62,11 @@ Within the download you'll find the following directories and files, logically g
 <details>
   <summary>Download contents</summary>
 
-  ```text
-  referral/
-  ├── css/
+   ```text
+referral
+├── LICENSE
+├── README.md
+└── graph.png
 
   ```
 </details>
