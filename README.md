@@ -85,7 +85,7 @@ Moreover, if your pull request contains JavaScript patches or features, you must
 
 ### Dev Environment
 
-The project contains `.devcontainer` for use with VS Code as a common development environment.
+The project contains `.devcontainer` based on the `NODE.JS` configuration.  You can use the Dev Container in VS Code as a common development environment.
 
 ## Versioning
 
